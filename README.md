@@ -157,4 +157,4 @@ Dataset by Navoneel on Kaggle
 
 TensorFlow & Keras for deep learning framework
 
-EfficientNet architecture for transfer learning# Brain-Tumor-Detection
+EfficientNet architecture for transfer learning
